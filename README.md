@@ -13,7 +13,7 @@ This is a basic OTP messaging app built using React. It allows a user to browse 
 - Simple CSS used for styling.
 
 **Live Demo:**
-https://your-live-app-url.com  *(replace with actual deployment URL)*
+https://data-taskers-sjsy.vercel.app/
 
 **How to run locally:**
 1. Clone the repository:
