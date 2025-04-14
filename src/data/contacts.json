@@ -1,0 +1,14 @@
+[
+    { "id": 1, "firstName": "John", "lastName": "Doe", "phone": "+919810153261" },
+    { "id": 2, "firstName": "Jane", "lastName": "Smith", "phone": "+919810153262" },
+    { "id": 3, "firstName": "Aarav", "lastName": "Sharma", "phone": "+919810153263" },
+    { "id": 4, "firstName": "Ishita", "lastName": "Verma", "phone": "+919810153264" },
+    { "id": 5, "firstName": "Rohan", "lastName": "Gupta", "phone": "+919810153265" },
+    { "id": 6, "firstName": "Ananya", "lastName": "Mehta", "phone": "+919810153266" },
+    { "id": 7, "firstName": "Kabir", "lastName": "Singh", "phone": "+919810153267" },
+    { "id": 8, "firstName": "Priya", "lastName": "Chopra", "phone": "+919810153268" },
+    { "id": 9, "firstName": "Aditya", "lastName": "Malhotra", "phone": "+919810153269" },
+    { "id": 10, "firstName": "Sneha", "lastName": "Reddy", "phone": "+919810153270" },
+    { "id": 11, "firstName": "Vikram", "lastName": "Nair", "phone": "+919810153271" },
+    { "id": 12, "firstName": "Pooja", "lastName": "Iyer", "phone": "+919810153272" }
+]
